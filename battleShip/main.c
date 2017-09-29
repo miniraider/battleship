@@ -3,6 +3,6 @@
 
 int main()
 {
-    printf("Hello world!\n");
+    printf("Welcome on battleship game!\n");
     return 0;
 }
